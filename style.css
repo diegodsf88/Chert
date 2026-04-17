@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #1f1b18;
+  color: #f5eee6;
+}
+
+header {
+  text-align: center;
+  padding: 30px;
+  background: #3a2f28;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px;
+  flex-wrap: wrap;
+}
+
+.rock-card {
+  background: #5c4a3d;
+  padding: 20px;
+  border-radius: 12px;
+  min-width: 180px;
+  text-align: center;
+}
